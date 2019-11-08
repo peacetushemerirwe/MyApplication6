@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SMART SECURITY LIGHTS </string>
+    <string name="face"> protecting you </string>
+    <string name="on">bluetoothon</string>
+    <string name="off">bluetoothoff</string>
+    <string name="sett">rView</string>
+    <string name="switch1">bReceiver</string>
+    <string name="Off">discoverNewDevices</string>
+    <string name="On">showPairedDevices</string>
+    <string name="Visible">getVisible</string>
+    <string name="blue">Bluetooth</string>
+
+</resources>
