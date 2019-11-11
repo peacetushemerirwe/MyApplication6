@@ -9,5 +9,16 @@
     <string name="On">showPairedDevices</string>
     <string name="Visible">getVisible</string>
     <string name="blue">Bluetooth</string>
+    <string name="s">DSearch</string>
+    <string name="Finish">finish discovery</string>
+    <string name="noDevice">no device found</string>
+
+    <string name="enter_name">Device Name</string>
+    <string name="add_record">Add Record</string>
+    <string name="btn_update">Update</string>
+    <string name="btn_delete">Delete</string>
+    <string name="empty_list_text">No records found</string>
+    <string name="enter_desc">price</string>
+    <string name="enter_title">Country</string>
 
 </resources>
